@@ -6,6 +6,9 @@
 - :clapper: Jogador de Paintball nas horas vagas
 - :video_game: Jogo PubG | Valorant | League of Legends
 
+### Um pouco sobre mim
+Entusiasta tech focado em Back-end, apaixonado por desafios e inovação. Especializado em JavaScript, busca consolidar expertise e explorar segurança e DevOps para contribuir em equipes ágeis. Comprometido em crescer e fazer a diferença na tecnologia.
+
 ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-bonates-15734613b/)
 [![HackerHank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/natanbonatescur1/hackos)
