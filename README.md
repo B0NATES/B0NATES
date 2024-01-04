@@ -24,6 +24,6 @@ Entusiasta tech focado em Back-end, apaixonado por desafios e inovação. Especi
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=B0NATES&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
 ##
-
+![snake gif](https://github.com/B0NATES/snake/blob/output/github-snake-dark.svg)
 
 ![B0NATES GitHub stats](https://github-readme-stats.vercel.app/api?username=B0NATES&show_icons=true&theme=radical)
