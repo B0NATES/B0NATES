@@ -7,7 +7,7 @@
 - :video_game: Jogo PubG | Valorant | League of Legends
 
 ### Um pouco sobre mim
-Entusiasta tech focado em Back-end, apaixonado por desafios e inovação. Especializado em JavaScript, busca consolidar expertise e explorar segurança e DevOps para contribuir em equipes ágeis. Comprometido em crescer e fazer a diferença na tecnologia.
+Dês de muito novo me interesso pela área, gosto bastante do Back-end, sou apaixonado por desafios e inovação sempre buscando consolidar minha expertise e pensar fora da caixa. Comprometido em crescer e fazer a diferença na tecnologia. Atualmente me aperfeiçoando nos estudos, conhecendo um pouco de HTML5, CSS3, React e typeScript.
 
 ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-bonates-15734613b/)
