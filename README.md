@@ -30,13 +30,12 @@ Desde muito jovem, tenho interesse na área de Tecnologia da Informação (TI). 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+<div>
+   <a href="https://github.com/B0NATES">
+   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0NATES&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais"/>
+   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=B0NATES&show_icons=true&theme=radical"/>
+     
+</div>
 
 
-##
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=B0NATES&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
-
-##
-![B0NATES GitHub stats](https://github-readme-stats.vercel.app/api?username=B0NATES&show_icons=true&theme=radical)
-
-
-![snake gif](https://github.com/B0NATES/snake/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/B0NATES/snake/blob/output/github-snake-dark.svg)
