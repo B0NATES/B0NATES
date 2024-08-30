@@ -18,7 +18,7 @@ Desde muito jovem, tenho interesse na área de Tecnologia da Informação (TI). 
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-bonates-15734613b/)
-[![HackerHank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/natanbonatescur1/hackos)
+[![HackerHank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/natanbonatescur1)
 
 ### Skills:
 
