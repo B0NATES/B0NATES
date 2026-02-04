@@ -28,13 +28,17 @@ Desde muito jovem, tenho interesse na área de Tecnologia da Informação (TI). 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
+<!--
 
+No dia 04/02 o grafico das liguagens mais usadas ficou off
 <div>
    <a href="https://github.com/B0NATES">
    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0NATES&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais"/>
    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=B0NATES&show_icons=true&theme=radical"/>
      
 </div>
+-->
+
 
 
   ![snake gif](https://github.com/B0NATES/snake/blob/output/github-snake-dark.svg)
